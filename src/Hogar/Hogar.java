@@ -7,7 +7,7 @@ package Hogar;
 
 /**
  *
- * @author paqui
+ * @author cano
  */
 public class Hogar {
 
@@ -16,13 +16,6 @@ public class Hogar {
      */
     public static void main(String[] args) {
         Vivienda v = new Vivienda(120000);
-        
-        double precio;
-        int numHabitaciones;
-        double superficie;
-        boolean parking;
-        String estado;
-        String propietario;
         
         System.out.println("Precio: " + v.precio);
         System.out.println("Número de habitaciones: "+ v.numHabitaciones);
