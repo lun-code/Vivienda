@@ -7,7 +7,7 @@ package Hogar;
 
 /**
  *
- * @author paqui
+ * @author cano
  */
 public class Vivienda {
     
