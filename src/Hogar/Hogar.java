@@ -23,7 +23,7 @@ public class Hogar {
         System.out.println("¿Dispone de parking?: " + v.parking);
         System.out.println("Estado: "+ v.estado);
         System.out.println("Propietario: "+ v.propietario);
-        System.out.println("Primer cambio de Manuel");
+        System.out.println("Prueba merge");
     }
     
 }
