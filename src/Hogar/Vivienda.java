@@ -25,7 +25,7 @@ public class Vivienda {
     
     public void actualizarPrecio()
     {
-        precio = precio - precio * 0.05;
+        precio = precio - precio * 0.10; // Segundo cambio de Manuel
     }
     
 }
