@@ -25,6 +25,7 @@ public class Hogar {
         System.out.println("Propietario: "+ v.propietario);
         System.out.println("Primer cambio de Manuel");
         System.out.println("Cambio desde rama 2");
+        System.out.println("Este cambio es en respuesta a la solicitud de revisión.");
     }
     
 }
