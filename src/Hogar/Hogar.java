@@ -15,7 +15,7 @@ public class Hogar {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Vivienda v = new Vivienda(120000);
+        Vivienda v = new Vivienda(140000); // Tercer cambio de Manuel
         
         System.out.println("Precio: " + v.precio);
         System.out.println("Número de habitaciones: "+ v.numHabitaciones);
